@@ -1,0 +1,13 @@
+.slider-container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .slider {
+    width: 80%;
+  }
+  
+  /* Стили для показа выбранного значения */
+  #sliderValue {
+    font-weight: bold;
+  }
